@@ -1,0 +1,6 @@
+{
+  "name": "IAPL LMS CRM & Admissions Management",
+  "description": "Enterprise-grade educational CRM and admissions management suite for higher education institutions, student enquiries, counselling, applications, document verification, and enrolment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
