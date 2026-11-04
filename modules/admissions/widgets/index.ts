@@ -1,0 +1,1 @@
+export { AdmissionsWidget } from './AdmissionsWidget';
