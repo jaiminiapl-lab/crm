@@ -1,0 +1,1 @@
+export { DocumentsWidget } from './DocumentsWidget';
